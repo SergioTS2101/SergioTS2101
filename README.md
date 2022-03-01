@@ -1,11 +1,7 @@
 <h1 align="center">Hola 👋, soy Sergio Tomeo Samuel</h1>
 <h3 align="center">Estudiante de 2º de Desarrollo de aplicaciones multiplataforma</h3>
 
-- 🔭 Actualmente sigo estudiando y trabajo en los proyectos que nos mandan en clase y cosas que hago por mi cuenta
-
 - ⚡ Sobre mí **Me considero alguien resolutivo, con ganas de aprender y de trabajar en equipo y también algo impaciente, pero eso me sirve para tratar de terminar mis proyectos a tiempo.**
-
-- 🌱 Estoy aprendiendo **Kotlin y cómo hacer aplicaciones multiplataforma**
 
 - 📫 Contacta conmigo a través de sergiots2101@gmail.com
 
